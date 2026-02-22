@@ -1,4 +1,4 @@
-#💲List_buy (Python)
+## 💲 System List-buy (Python)
 > Sistema feito em Python para criar uma lista de compras via terminal
 
 ## 🚀 Funcionalidades do projeto
