@@ -24,3 +24,7 @@ Matheus Oliveira
 
 ```bash
 python main.py
+
+https://github.com/user-attachments/assets/9dc3386e-c0e3-4086-940d-1afa9606d0ac
+
+
