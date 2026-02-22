@@ -1,3 +1,4 @@
+# Lista vazia
 compras = []
 
 # Laço de repetição, para o menu e opções 
@@ -28,6 +29,8 @@ while True:
 
     # elif com for para listar itens
     elif escolha == 2:
+        if not compras:
+            print('> Sua lista está vazia')
         for indice, valor in enumerate(compras):
             print('n°:',indice,'|','->', 'Compra:',valor)
 
@@ -71,8 +74,3 @@ while True:
     # else para tratar opçoes inválidas. 
     else:
         print('> X - Erro, opção inválida')
-
-
-    
-    
-
