@@ -9,8 +9,8 @@ Projeto desenvolvido para praticar lógica de programação utilizando Python.
 - Limpar lista
 - Tratamento de erros
 - Menu interativo
-
-- 📚 Conceitos aplicados
+- 
+## 📚 Conceitos aplicados
 - Listas
 - Loops (while / for)
 - Try/Except
@@ -24,7 +24,3 @@ Matheus Oliveira
 
 ```bash
 python main.py
-
-
-
-
