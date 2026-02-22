@@ -24,12 +24,8 @@ Matheus Oliveira
 
 https://github.com/user-attachments/assets/9730c779-1120-469a-b692-7c679f811503
 
-
-
 ## ▶️ Como executar
 
 ```bash
 python main.py
-
-
 
