@@ -20,10 +20,6 @@ Projeto desenvolvido para praticar lógica de programação utilizando Python.
 💻 Autor
 Matheus Oliveira
 
-```md
-## <img width="409" height="339" alt="image" src="https://github.com/user-attachments/assets/b4fa5da6-191d-44df-b073-a7551de61bd3" />
-![Programa rodando]
-
 ## ▶️ Como executar
 
 ```bash
