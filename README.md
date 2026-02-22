@@ -20,7 +20,11 @@ Projeto desenvolvido para praticar lógica de programação utilizando Python.
 💻 Autor
 Matheus Oliveira
 
-https://github.com/user-attachments/assets/9dc3386e-c0e3-4086-940d-1afa9606d0ac
+## 💾 Código rodando 
+
+https://github.com/user-attachments/assets/9730c779-1120-469a-b692-7c679f811503
+
+
 
 ## ▶️ Como executar
 
