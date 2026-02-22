@@ -21,8 +21,8 @@ Projeto desenvolvido para praticar lógica de programação utilizando Python.
 Matheus Oliveira
 
 ```md
-<img width="456" height="286" alt="image" src="https://github.com/user-attachments/assets/f1d7faa5-738d-440a-9b62-51b006a8aef7" />
-
+## 
+![Programa rodando](<img width="409" height="339" alt="image" src="https://github.com/user-attachments/assets/b4fa5da6-191d-44df-b073-a7551de61bd3" />)
 
 ## ▶️ Como executar
 
